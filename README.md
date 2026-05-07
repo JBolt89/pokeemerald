@@ -1,5 +1,5 @@
 # Pokémon Emerald
-# I am a big idiot
+# I am not a big idiot
 
 This is a decompilation of Pokémon Emerald.
 
